@@ -1,9 +1,9 @@
 # Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization
 
 >   Tested two versions of codes for Grad-CAM, including gradcam-tensorflow-2 version:https://github.com/ismailuddin/gradcam-tensorflow-2, and Keras based version:https://keras.io/examples/vision/grad_cam/.
->   Fixed the environment conflicts.
->   Successfully run on GPU: NVIDIA GeForce GTX 1660 Ti.
->   Complete experiments related to bicycle images with or without riders.
+-   Fixed the environment conflicts.
+-   Successfully run on GPU: NVIDIA GeForce GTX 1660 Ti.
+-   Complete experiments related to bicycle images with or without riders.
 
 ![Example](./cam_bike_no_person.jpg)
 
